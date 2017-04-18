@@ -1,2 +1,3 @@
 # YouCaster
-An application that allows you to search Youtube videos.
+
+An application that use Youtube API to allow you to search Youtube videos.
