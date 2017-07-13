@@ -2,6 +2,9 @@
   "name": "youcaster",
   "version": "1.0.0",
   "description": "An application that allows you to serach Youtube videos.",
+  "engines": {
+    "node": "6.11.1"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node app.js"
